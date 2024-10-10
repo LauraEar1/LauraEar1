@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is **Laura Earl** 
 
-<img src="image.png" alt="Description" width="150" height="115">
+<img src="image.png" alt="Description" width="155" height="145">
 
 and I'm in the third year of my undergrad at Dalhousie University. I am Majoring in Neuroscience with a certificate in [Neurotechnology and Innovation](https://www.dal.ca/faculty/science/psychology_neuroscience/programs/certificate-programs/neurotech_innovation.html). 
 
