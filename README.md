@@ -1,5 +1,4 @@
-# Hi there 👋
-My name is **Laura Earl** 
+# Hi there 👋 My name is **Laura Earl** 
 
 <img src="image.png" alt="Description" width="150" height="175">
 
