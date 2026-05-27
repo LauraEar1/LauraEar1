@@ -1,66 +1,50 @@
-# Hi there 👋 My name is **Laura Earl** 
-Neurotechnology | Brain-Computer Interfaces | Biomedical Engineering (MEng)
+# Hi there 👋 My name is **Laura Earl**
 
-I am a recent neuroscience graduate focused on building and translating BCI systems into real-world applications
+**Neurotechnology · Brain-Computer Interfaces · Biomedical Engineering**
 
-## 👋 Overview
+I'm a neuroscience graduate transitioning into biomedical engineering, with a focus on brain-computer interface (BCI) systems, real-time neural signal processing, and applied neurotechnology. I recently completed an Honours BSc in Neuroscience at Dalhousie University — with a minor in Entrepreneurship and a Certificate in Neurotechnology Innovation — and will be starting an MEng in Biomedical Engineering at the University of Calgary in Fall 2026.
 
-I am a neuroscience graduate transitioning into biomedical engineering with a focus on brain-computer interface (BCI) systems, real-time neural signal processing, and applied neurotechnology development.
+Over the past four years I've developed hands-on experience with a range of neuroimaging techniques and their real-world applications, with a particular focus on elcetroencephlogrophy (EEG), BCIs, concussion monitoring, and an emerging intrest in neurodegeneration.
 
-My background is primarily in experimental neuroscience and BCI research, with hands-on experience building interactive systems in Unity. I am particularly interested in roles involving neurotechnology development, BCI systems engineering, and real-time biomedical software systems.
+---
 
-I recently completed an Honours BSc in Neuroscience at Dalhousie University and will be starting an MEng in Biomedical Engineering at University of Calgary in the Fall of 2026.
+## 🎮 Featured Project — River BCI Game
 
-## 🧠 Core Interests
-Brain-computer interfaces 
-Neurotechnology development (BCI applications)
-Neural interfaces for assistive and interactive systems
-Concussion monitoring and applied neurophysiology (emerging interest)
-Neurodegenerative disease research and interventions
+*Honours Thesis · Dalhousie University*
 
-## 🎮 Featured Project
-River BCI Game (Honours Thesis)
+Developed an online BCI-driven video game in Unity as the focus of my Honours thesis. The system translates live neural signals into game control inputs, using both steady-state visually evoked potentials (SSVEP) and motor imagery as control paradigms in an online BCI pipeline.
 
-Developed a real-time BCI-driven interactive game as part of my Honours thesis, focusing on translating neural signals into usable control inputs in a Unity-based environment. This project utilized both steady state visually evoked potential (SSVEP) and motor imagery evoked signals as videogame controls in an online BCI.
+- Built the full interactive application in Unity (C#)
+- Implemented real-time neural signal → control input mapping with a focus on latency, usability, and robustness
+- Adapted classifier templates and workflows from [BCI Essentials](https://github.com/kirtonBCIlab/bci-essentials-unity) (MPL-2.0) for the signal processing pipeline
+  
+🔗 [LauraEar1/BCI_RiverGame](https://github.com/LauraEar1/BCI_RiverGame)
 
-Key contributions:
-
-Built interactive application in Unity (C#)
-Implemented real-time neural signal → control mapping
-Focus on latency, usability, and robustness in BCI control paradigms
-Integrated neuroscience concepts into a functional applied system
-
-👉 [https://github.com/LauraEar1/BCI_RiverGame]
+---
 
 ## 🛠️ Technical Skills
 
-### Languages
+| | |
+|---|---|
+| **Languages** | C# (Unity), Python |
+| **Tools** | Unity, Git / GitHub, BCI research environments |
+| **Methods** | Real-time system design, experimental design for BCI, neurotechnology prototyping |
 
-C# (Unity-based development, applied scripting)
-Python (data analysis, prototyping, research workflows)
+---
 
-### Tools & Platforms
+## 🧠 Interests
 
-Unity
-Git / GitHub
-Experimental neurotechnology systems (BCI research environments)
+BCI systems and neural decoding · Neurotechnology development and translation · Assistive and interactive neural interfaces · Concussion monitoring and applied neurophysiology · Neurodegeneration research
 
-### Applied Skills
+---
 
-Real-time system design
-Prototype development for neurotechnology applications
-Experimental design for human-computer systems
+## 🤝 Open To
 
-### 📈 Focus Areas Going Forward
-BCI system development and optimization
-Neural decoding 
-Biomedical software engineering (real-time + embedded-adjacent systems)
-Neurotechnology product development and translation
+I'm currently focused on my graduate studies and not actively job searching, but I'm always happy to connect around collaborative projects, research opportunities, or conversations in neurotechnology and BCI development.
 
-## 🤝 What I’m Looking For
-
-I'm currently focused on my graduate studies and not actively job searching. I am, however, always eager to learn and actively looking to build connections in neurotechnology and BCI development. I welcome conversations around collaborative projects or research opportunities.
+---
 
 ## 📫 Contact
-GitHub: https://github.com/LauraEar1
-LinkedIn: [www.linkedin.com/in/laura-earl123]
+
+🔗 [linkedin.com/in/laura-earl123](https://www.linkedin.com/in/laura-earl123)  
+🐙 [github.com/LauraEar1](https://github.com/LauraEar1)
