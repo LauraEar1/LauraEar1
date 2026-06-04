@@ -4,7 +4,7 @@
 
 I'm a neuroscience graduate transitioning into biomedical engineering, with a focus on brain-computer interface (BCI) systems, real-time neural signal processing, and applied neurotechnology. I recently completed an Honours BSc in Neuroscience at Dalhousie University — with a minor in Entrepreneurship and a Certificate in Neurotechnology Innovation — and will be starting an MEng in Biomedical Engineering at the University of Calgary in Fall 2026.
 
-Over the past four years I've developed hands-on experience with a range of neuroimaging techniques and their real-world applications, with a particular focus on elcetroencephlogrophy (EEG), BCIs, concussion monitoring, and an emerging intrest in neurodegeneration.
+Over the past four years I've developed hands-on experience with a range of neuroimaging techniques and their real-world applications, with a particular focus on elcetroencephlogrophy (EEG) and BCIs with an emerging intrest in concussion monitoring, and neurodegeneration.
 
 ---
 
@@ -12,7 +12,7 @@ Over the past four years I've developed hands-on experience with a range of neur
 
 *Honours Thesis · Dalhousie University*
 
-Developed an online BCI-driven video game in Unity as the focus of my Honours thesis. The system translates live neural signals into game control inputs, using both steady-state visually evoked potentials (SSVEP) and motor imagery as control paradigms in an online BCI pipeline.
+Developed an online BCI-driven video game in Unity as the focus of my Honours thesis. The system translates live neural signals into game control inputs, using both steady-state visually evoked potentials (SSVEP) and motor imagery respectively as controls in an online BCI.
 
 - Built the full interactive application in Unity (C#)
 - Implemented real-time neural signal → control input mapping with a focus on latency, usability, and robustness
